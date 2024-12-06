@@ -1,4 +1,4 @@
-<h1 align="center">SHADOW C2 Framework</h1>
+<h1 align="center">shadow-c2-Framework</h1>
 
 <p align="center">
     <em>高级命令控制框架 | 安全研究工具</em>
@@ -209,5 +209,7 @@ shadow-c2/
 - 错误处理完善
 
 ---
+## 联系作者
+ 荷花哥
 
 <p align="center">Made with ❤️ for Security Research</p>
